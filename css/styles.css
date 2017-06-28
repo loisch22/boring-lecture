@@ -1,11 +1,19 @@
-h2.intro {
+.intro h2{
   font-style: italic;
   color: green;
 }
-p.intro {
+.intro p{
   font-size: 20px;
   color: grey;
 }
-img.intro {
+.intro img{
   border: solid 10px black;
+}
+.important {
+  font-weight: bold;
+  color: red;
+}
+.unimportant {
+  font-style: italic;
+  color: blue;
 }
